@@ -1,4 +1,8 @@
-## Hi there 👋
+# About Me:
+
+[![Download Resume](https://img.shields.io/badge/📄%20Resume-Download%20Now-brightgreen?style=for-the-badge)](https://github.com/AidenKranz/AidenKranz/blob/main/MSBA%202027%20Resume.pdf)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aiden-kranz)
 
 <!--
 **AidenKranz/AidenKranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
