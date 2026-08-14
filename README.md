@@ -4,6 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aiden-kranz)
 
+I am a data-driven Software Developer and Business Analytics graduate student with experience in automated learning, SQL, and data management. I combine technical engineering with analytical insight to solve complex technical problems and drive operational efficiency. My strategic alignment is explicitly focused on the HealthTech sector, specifically within Healthcare Data Analytics and Analytics Engineering. This defined industry perfectly bridges my foundational background in Computer Science from North Carolina State University with the advanced business and statistical methodologies I am acquiring through the Wake Forest University MSBA program.
+
+The healthcare analytics market is experiencing explosive growth, driven by an industry-wide need to translate massive amounts of patient and operational data into actionable care strategies. By targeting HealthTech, I am positioning myself to solve complex, data-heavy challenges in hospital operations and patient care optimization.
+
 <!--
 **AidenKranz/AidenKranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
