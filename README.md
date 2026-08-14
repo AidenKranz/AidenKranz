@@ -13,6 +13,10 @@ The healthcare analytics market is experiencing explosive growth, driven by an i
 
 *Insert project information when completed*
 
+### python project 
+
+*Insert project information when completed*
+
 ### [NomNomNavigator](https://devpost.com/software/nomnomnavigator) | Hack_NCState x Code Black Hackathon: 
 
 Built a nutrition app in 24 hours with a team of five, meant to scan barcodes and provide nutritional facts, as well as tally daily macronutrient intake. Developed frontend and connection to backend exhibiting problem solving skills and adaptability to new tools. Awarded Best Use of MongoDB Atlas by Major League Hacking.
