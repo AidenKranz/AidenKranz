@@ -21,6 +21,10 @@ The healthcare analytics market is experiencing explosive growth, driven by an i
 
 Built a nutrition app in 24 hours with a team of five, meant to scan barcodes and provide nutritional facts, as well as tally daily macronutrient intake. Developed frontend and connection to backend exhibiting problem solving skills and adaptability to new tools. Awarded Best Use of MongoDB Atlas by Major League Hacking.
 
+### [PETSc SNES Python Example](https://github.com/AidenKranz/PETSc-SNES-Python-Example)
+
+A tutorial demonstrating how to use petscy4py to solve the differential equation $u'' + u^{2} = f$, reaching a norm of error of $1.49751e-10$ in 3 iterations. Includes a visualization of the solver and three improved docstrings for petsc4py functions used in the project. 
+
 ### [Pulse](https://github.com/AidenKranz/Pulse)
 
-Laser redirection game written in PuzzleScript. 
+Laser redirection game written in 700+ lines of PuzzleScript including 14 levels and 6 ancillary mechanics. 
